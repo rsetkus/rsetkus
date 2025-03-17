@@ -29,3 +29,6 @@ Currently strengthening my skills in Kotlin Multiplatform to build shared codeba
 🔗 [LinkedIn](https://www.linkedin.com/in/setkusrobertas/) | ✍️ [Personal](https://setkus.lt) | 🐘 [Mastodon](https://mastodon.social/@setkus)
 
 > 💯 "Code quality is not optional - it's a fundamental requirement for sustainable development."
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=38b0e8&height=100&section=footer)
+
